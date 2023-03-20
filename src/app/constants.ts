@@ -1,0 +1,1 @@
+export const DIGIO_HTTP_CLIENT = 'DIGIO_HTTP_CLIENT';
